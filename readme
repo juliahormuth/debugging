@@ -1,0 +1,33 @@
+### Commands
+
+## node inspect server.js
+
+## list(100)
+
+## c => run the server with debugger/ continue
+
+## exec => Check expressions or variables
+
+## exec body
+
+## exec counter
+
+## r => reload the project
+
+## sb(19) => set breakpoint at line 19
+
+## step => enter the function
+
+## out => exit the function/ return the way back
+
+## exec args
+
+## cb('server.js', 19) => remove the breakpoint
+
+## breakpoints => You can see all the breakpoints
+
+## repl => do a logic directly in the console
+
+## .save session.txt => save the session
+
+## node --inspect server.js => run the server to watch in the browser
